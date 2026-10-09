@@ -1,0 +1,114 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="40" width="700" height="60">
+      <content textType="headline" fontSize="32" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">02</span>　现代国防的四大特征</p>
+      </content>
+    </shape>
+    <line startX="70" startY="100" endX="200" endY="100">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <line startX="150" startY="300" endX="810" endY="300">
+      <border color="rgba(76,201,240,0.25)" width="2"/>
+    </line>
+    <shape type="ellipse" topLeftX="135" topLeftY="290" width="20" height="20">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </shape>
+    <shape type="ellipse" topLeftX="350" topLeftY="290" width="20" height="20">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </shape>
+    <shape type="ellipse" topLeftX="570" topLeftY="290" width="20" height="20">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </shape>
+    <shape type="ellipse" topLeftX="790" topLeftY="290" width="20" height="20">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="130" width="150" height="150" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Charts/chart-graph.svg" topLeftX="120" topLeftY="150" width="36" height="36">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="80" topLeftY="195" width="130" height="30">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>综合国力较量</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="228" width="130" height="44">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>超越单一军事<br/>政经外交全面对抗</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="285" topLeftY="130" width="150" height="150" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Health/brain.svg" topLeftX="335" topLeftY="150" width="36" height="36">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="295" topLeftY="195" width="130" height="30">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>科技主导驱动</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="295" topLeftY="228" width="130" height="44">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>信息化智能化<br/>科技是核心战斗力</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="500" topLeftY="130" width="150" height="150" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Connect/network-tree.svg" topLeftX="550" topLeftY="150" width="36" height="36">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="510" topLeftY="195" width="130" height="30">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>全域多维一体</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="228" width="130" height="44">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>陆海空天网电<br/>多域协同作战</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="720" topLeftY="130" width="150" height="150" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Peoples/hands.svg" topLeftX="770" topLeftY="150" width="36" height="36">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="730" topLeftY="195" width="130" height="30">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>平战结合军民</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="730" topLeftY="228" width="130" height="44">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>常备不懈<br/>军民融合深度发展</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="340" width="800" height="130" presetHandlers="16">
+      <fill><fillColor color="rgba(76,201,240,0.08)"/></fill>
+      <border color="rgba(76,201,240,0.2)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="100" topLeftY="360" width="740" height="90">
+      <content textType="body" fontSize="14" color="rgba(241,250,238,0.85)" lineSpacing="multiple:1.6" wrap="true" autoFit="normal-auto-fit">
+        <p>现代国防已从传统的<span color="rgba(76,201,240,1)" bold="true">「枪对枪、炮对炮」</span>单一军事对抗，演变为<span color="rgba(168,85,247,1)" bold="true">综合国力、科技主导、全域多维、平战结合</span>的体系较量。谁掌握了核心科技、谁构建了一体化防御体系，谁就能在未来博弈中占据主动。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>四大特征：综合国力较量、科技主导驱动、全域多维一体、平战结合军民融合。强调体系对抗而非单一军种。</p>
+    </content>
+  </note>
+</slide>

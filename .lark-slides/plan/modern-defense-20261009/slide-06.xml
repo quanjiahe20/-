@@ -1,0 +1,102 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="40" width="700" height="60">
+      <content textType="headline" fontSize="32" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">04</span>　科技赋能现代国防</p>
+      </content>
+    </shape>
+    <line startX="70" startY="100" endX="200" endY="100">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <img src="@./tech-bg.jpg" topLeftX="70" topLeftY="125" width="360" height="360"/>
+    <shape type="rect" topLeftX="70" topLeftY="125" width="360" height="360">
+      <fill><fillColor color="rgba(11,19,43,0.35)"/></fill>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="420" width="360" height="65" presetHandlers="12">
+      <fill><fillColor color="rgba(11,19,43,0.7)"/></fill>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="430" width="320" height="50">
+      <content textType="body" fontSize="12" color="rgba(241,250,238,0.8)" lineSpacing="multiple:1.5" wrap="true" autoFit="normal-auto-fit">
+        <p>科技是核心战斗力，人工智能、无人系统、太空与网络力量正在重塑战争形态。</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="470" topLeftY="125" width="200" height="160" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Health/brain.svg" topLeftX="540" topLeftY="145" width="40" height="40">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="485" topLeftY="195" width="170" height="30">
+      <content textType="sub-headline" fontSize="17" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>人工智能</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="485" topLeftY="230" width="170" height="44">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>智能决策<br/>无人作战平台</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="690" topLeftY="125" width="200" height="160" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/rocket.svg" topLeftX="760" topLeftY="145" width="40" height="40">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="705" topLeftY="195" width="170" height="30">
+      <content textType="sub-headline" fontSize="17" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>无人系统</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="705" topLeftY="230" width="170" height="44">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>无人机蜂群<br/>无人潜航器</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="470" topLeftY="305" width="200" height="160" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/globe.svg" topLeftX="540" topLeftY="325" width="40" height="40">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="485" topLeftY="375" width="170" height="30">
+      <content textType="sub-headline" fontSize="17" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>太空力量</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="485" topLeftY="410" width="170" height="44">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>卫星侦察<br/>导弹预警</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="690" topLeftY="305" width="200" height="160" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Connect/network-tree.svg" topLeftX="760" topLeftY="325" width="40" height="40">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="705" topLeftY="375" width="170" height="30">
+      <content textType="sub-headline" fontSize="17" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>网络空间</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="705" topLeftY="410" width="170" height="44">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.6)" textAlign="center" lineSpacing="multiple:1.4" wrap="true" autoFit="normal-auto-fit">
+        <p>网络攻防<br/>信息对抗</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>四大科技领域：人工智能、无人系统、太空力量、网络空间，共同构成现代国防的科技支撑。</p>
+    </content>
+  </note>
+</slide>

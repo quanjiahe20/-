@@ -1,0 +1,130 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="40" width="820" height="60">
+      <content textType="headline" fontSize="32" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">05</span>　国防的意义与青年责任</p>
+      </content>
+    </shape>
+    <line startX="70" startY="100" endX="200" endY="100">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <shape type="round-rect" topLeftX="70" topLeftY="130" width="400" height="60" presetHandlers="14">
+      <fill><fillColor color="rgba(76,201,240,0.12)"/></fill>
+      <border color="rgba(76,201,240,0.4)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Safe/shield.svg" topLeftX="90" topLeftY="142" width="36" height="36">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="135" topLeftY="142" width="320" height="36">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>国防的意义</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="490" topLeftY="130" width="400" height="60" presetHandlers="14">
+      <fill><fillColor color="rgba(168,85,247,0.12)"/></fill>
+      <border color="rgba(168,85,247,0.4)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Peoples/hands.svg" topLeftX="510" topLeftY="142" width="36" height="36">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="555" topLeftY="142" width="320" height="36">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>青年的责任</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="210" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="222" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(76,201,240,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>国无防不立</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="252" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>强大的国防是国家生存发展的根本保障</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="490" topLeftY="210" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="222" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(168,85,247,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>增强国防意识</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="252" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>关心国防、了解国防，树立居安思危观念</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="305" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="317" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(76,201,240,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>民无防不安</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="347" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>和平的生活离不开稳固的国防屏障</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="490" topLeftY="305" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="317" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(168,85,247,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>投身国防建设</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="347" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>参军入伍、科研报国，以实际行动强军</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="400" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="412" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(76,201,240,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>民族复兴根基</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="442" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>强国必须强军，军强才能国安</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="490" topLeftY="400" width="400" height="80" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="412" width="360" height="26">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(168,85,247,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>练就过硬本领</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="510" topLeftY="442" width="360" height="30">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.65)" wrap="true" autoFit="normal-auto-fit">
+        <p>学好专业知识，为强军兴军贡献力量</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>国无防不立，民无防不安。青年是国防建设的生力军，要增强国防意识、投身国防建设、练就过硬本领。</p>
+    </content>
+  </note>
+</slide>

@@ -1,0 +1,50 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(11,19,43,0.85) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="@./cover-bg.jpg" topLeftX="0" topLeftY="0" width="960" height="540"/>
+    <shape type="rect" topLeftX="0" topLeftY="0" width="960" height="540">
+      <fill>
+        <fillColor color="linear-gradient(135deg,rgba(11,19,43,0.55) 0%,rgba(11,19,43,0.35) 100%)"/>
+      </fill>
+    </shape>
+    <shape type="round-rect" topLeftX="160" topLeftY="150" width="640" height="240" presetHandlers="24">
+      <fill>
+        <fillColor color="rgba(255,255,255,0.08)"/>
+      </fill>
+      <border color="rgba(255,255,255,0.18)" width="1"/>
+      <shadow color="rgba(0,0,0,0.35)" blur="24"/>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="170" width="640" height="110">
+      <content textType="title" fontSize="64" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">现代</span><span color="rgba(241,250,238,1)">国防</span></p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="290" width="640" height="60">
+      <content textType="body" fontSize="18" color="rgba(241,250,238,0.85)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>国家安全是民族复兴的根基 · 现代国防是捍卫和平的钢铁长城</p>
+      </content>
+    </shape>
+    <line startX="380" startY="370" endX="580" endY="370">
+      <border color="rgba(76,201,240,0.6)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="620" topLeftY="460" width="280" height="40">
+      <content textType="caption" fontSize="12" color="rgba(241,250,238,0.6)" textAlign="right" wrap="true" autoFit="normal-auto-fit">
+        <p>汇报人：XXX　|　班级：XXX</p>
+      </content>
+    </shape>
+    <icon iconType="iconpark/Safe/shield.svg" topLeftX="70" topLeftY="70" width="36" height="36">
+      <fill>
+        <fillColor color="rgba(76,201,240,0.7)"/>
+      </fill>
+    </icon>
+  </data>
+  <note>
+    <content textType="body">
+      <p>开场：大家好，今天我汇报的主题是现代国防。国家安全是民族复兴的根基，现代国防是捍卫和平的钢铁长城。</p>
+    </content>
+  </note>
+</slide>

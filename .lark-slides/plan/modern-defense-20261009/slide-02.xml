@@ -1,0 +1,103 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="50" width="300" height="70">
+      <content textType="headline" fontSize="40" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>目录</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="70" topLeftY="120" width="400" height="30">
+      <content textType="caption" fontSize="13" color="rgba(76,201,240,0.7)" wrap="true" autoFit="normal-auto-fit">
+        <p>CONTENTS · 四个维度读懂现代国防</p>
+      </content>
+    </shape>
+    <line startX="70" startY="158" endX="260" endY="158">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <shape type="round-rect" topLeftX="70" topLeftY="190" width="390" height="130" presetHandlers="16">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="200" width="60" height="60">
+      <content textType="title" fontSize="44" bold="true" color="rgba(76,201,240,0.9)" wrap="true" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="205" width="280" height="40">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>国防内涵</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="250" width="280" height="50">
+      <content textType="body" fontSize="12" color="rgba(241,250,238,0.6)" wrap="true" autoFit="normal-auto-fit">
+        <p>现代国防的定义与核心内涵</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="500" topLeftY="190" width="390" height="130" presetHandlers="16">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(114,9,183,0.3)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="520" topLeftY="200" width="60" height="60">
+      <content textType="title" fontSize="44" bold="true" color="rgba(168,85,247,0.9)" wrap="true" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="205" width="280" height="40">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>时代特征</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="250" width="280" height="50">
+      <content textType="body" fontSize="12" color="rgba(241,250,238,0.6)" wrap="true" autoFit="normal-auto-fit">
+        <p>现代国防的四大鲜明特征</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="70" topLeftY="350" width="390" height="130" presetHandlers="16">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(114,9,183,0.3)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="90" topLeftY="360" width="60" height="60">
+      <content textType="title" fontSize="44" bold="true" color="rgba(168,85,247,0.9)" wrap="true" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="365" width="280" height="40">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>力量构成</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="410" width="280" height="50">
+      <content textType="body" fontSize="12" color="rgba(241,250,238,0.6)" wrap="true" autoFit="normal-auto-fit">
+        <p>五大军种与全域慑战体系</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="500" topLeftY="350" width="390" height="130" presetHandlers="16">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="520" topLeftY="360" width="60" height="60">
+      <content textType="title" fontSize="44" bold="true" color="rgba(76,201,240,0.9)" wrap="true" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="365" width="280" height="40">
+      <content textType="sub-headline" fontSize="20" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>时代责任</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="590" topLeftY="410" width="280" height="50">
+      <content textType="body" fontSize="12" color="rgba(241,250,238,0.6)" wrap="true" autoFit="normal-auto-fit">
+        <p>国防意义与青年的使命担当</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>本次汇报从四个维度展开：国防内涵、时代特征、力量构成、时代责任。</p>
+    </content>
+  </note>
+</slide>

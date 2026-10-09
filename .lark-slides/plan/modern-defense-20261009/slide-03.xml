@@ -1,0 +1,105 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="40" width="600" height="60">
+      <content textType="headline" fontSize="32" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">01</span>　什么是现代国防</p>
+      </content>
+    </shape>
+    <line startX="70" startY="100" endX="200" endY="100">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <shape type="round-rect" topLeftX="70" topLeftY="125" width="420" height="370" presetHandlers="18">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.2)" width="1"/>
+    </shape>
+    <shape type="text" topLeftX="95" topLeftY="145" width="370" height="40">
+      <content textType="sub-headline" fontSize="18" bold="true" color="rgba(76,201,240,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>核心定义</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="95" topLeftY="195" width="370" height="280">
+      <content textType="body" fontSize="15" color="rgba(241,250,238,0.9)" lineSpacing="multiple:1.7" wrap="true" autoFit="normal-auto-fit">
+        <p>现代国防是国家为<span color="rgba(76,201,240,1)" bold="true">防备和抵抗侵略</span>、制止武装颠覆，保卫国家的<span color="rgba(76,201,240,1)" bold="true">主权、统一、领土完整和安全</span>所进行的军事及与军事有关的政治、经济、外交、科技、教育等方面的活动。</p>
+        <p>它不仅是军事力量的较量，更是<span color="rgba(168,85,247,1)" bold="true">综合国力</span>的全面体现。</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="530" topLeftY="125" width="360" height="80" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/flag.svg" topLeftX="550" topLeftY="145" width="32" height="32">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="595" topLeftY="140" width="280" height="30">
+      <content textType="sub-headline" fontSize="16" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>捍卫国家主权</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="595" topLeftY="172" width="280" height="24">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>独立自主，不容外来干涉</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="530" topLeftY="218" width="360" height="80" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/globe.svg" topLeftX="550" topLeftY="238" width="32" height="32">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="595" topLeftY="233" width="280" height="30">
+      <content textType="sub-headline" fontSize="16" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>维护领土完整</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="595" topLeftY="265" width="280" height="24">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>寸土必争，守护每一寸疆域</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="530" topLeftY="311" width="360" height="80" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Safe/shield.svg" topLeftX="550" topLeftY="331" width="32" height="32">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="595" topLeftY="326" width="280" height="30">
+      <content textType="sub-headline" fontSize="16" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>保障国家安全</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="595" topLeftY="358" width="280" height="24">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>军事、网络、太空全域安全</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="530" topLeftY="404" width="360" height="91" presetHandlers="14">
+      <fill><fillColor color="rgba(255,255,255,0.05)"/></fill>
+      <border color="rgba(255,255,255,0.1)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Charts/chart-graph.svg" topLeftX="550" topLeftY="427" width="32" height="32">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="595" topLeftY="422" width="280" height="30">
+      <content textType="sub-headline" fontSize="16" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>促进国家发展</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="595" topLeftY="454" width="280" height="30">
+      <content textType="caption" fontSize="11" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>和平环境是发展的前提</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>现代国防的核心是捍卫主权、领土、安全，最终服务于国家发展。它已超越单纯军事范畴，是综合国力的体现。</p>
+    </content>
+  </note>
+</slide>

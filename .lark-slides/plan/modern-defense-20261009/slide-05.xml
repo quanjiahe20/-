@@ -1,0 +1,134 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(15,25,55,1) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="70" topLeftY="40" width="700" height="60">
+      <content textType="headline" fontSize="32" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">03</span>　国防力量构成</p>
+      </content>
+    </shape>
+    <line startX="70" startY="100" endX="200" endY="100">
+      <border color="rgba(76,201,240,0.5)" width="1"/>
+    </line>
+    <line startX="458" startY="258" endX="360" endY="175">
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </line>
+    <line startX="502" startY="258" endX="600" endY="175">
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </line>
+    <line startX="430" startY="290" endX="200" endY="305">
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </line>
+    <line startX="530" startY="290" endX="760" endY="305">
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </line>
+    <line startX="480" startY="340" endX="480" endY="400">
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </line>
+    <shape type="ellipse" topLeftX="430" topLeftY="240" width="100" height="100">
+      <fill><fillColor color="rgba(76,201,240,0.15)"/></fill>
+      <border color="rgba(76,201,240,0.6)" width="2"/>
+    </shape>
+    <icon iconType="iconpark/Safe/shield.svg" topLeftX="458" topLeftY="258" width="44" height="44">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="430" topLeftY="306" width="100" height="22">
+      <content textType="caption" fontSize="11" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>人民军队</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="200" topLeftY="130" width="160" height="90" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Connect/anchor.svg" topLeftX="212" topLeftY="148" width="28" height="28">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="250" topLeftY="148" width="100" height="28">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>陆军</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="212" topLeftY="184" width="136" height="28">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>地面作战 · 立体攻防</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="600" topLeftY="130" width="160" height="90" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/airplane.svg" topLeftX="612" topLeftY="148" width="28" height="28">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="650" topLeftY="148" width="100" height="28">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>空军</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="612" topLeftY="184" width="136" height="28">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>空天一体 · 全域作战</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="40" topLeftY="260" width="160" height="90" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(168,85,247,0.3)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Connect/anchor-one.svg" topLeftX="52" topLeftY="278" width="28" height="28">
+      <fill><fillColor color="rgba(168,85,247,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="90" topLeftY="278" width="100" height="28">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>海军</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="52" topLeftY="314" width="136" height="28">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>近海防御 · 远海护卫</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="760" topLeftY="260" width="160" height="90" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Travel/rocket.svg" topLeftX="772" topLeftY="278" width="28" height="28">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="810" topLeftY="278" width="100" height="28">
+      <content textType="sub-headline" fontSize="15" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>火箭军</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="772" topLeftY="314" width="136" height="28">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>战略威慑 · 核常兼备</p>
+      </content>
+    </shape>
+    <shape type="round-rect" topLeftX="400" topLeftY="400" width="160" height="90" presetHandlers="12">
+      <fill><fillColor color="rgba(255,255,255,0.06)"/></fill>
+      <border color="rgba(76,201,240,0.25)" width="1"/>
+    </shape>
+    <icon iconType="iconpark/Connect/network-tree.svg" topLeftX="412" topLeftY="418" width="28" height="28">
+      <fill><fillColor color="rgba(76,201,240,1)"/></fill>
+    </icon>
+    <shape type="text" topLeftX="450" topLeftY="418" width="100" height="28">
+      <content textType="sub-headline" fontSize="14" bold="true" color="rgba(241,250,238,1)" wrap="true" autoFit="normal-auto-fit">
+        <p>战略支援</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="412" topLeftY="454" width="136" height="28">
+      <content textType="caption" fontSize="10" color="rgba(241,250,238,0.55)" wrap="true" autoFit="normal-auto-fit">
+        <p>太空网络 · 信息对抗</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>五大军种：陆军、海军、空军、火箭军、战略支援部队，构成全域慑战的现代国防力量体系。</p>
+    </content>
+  </note>
+</slide>

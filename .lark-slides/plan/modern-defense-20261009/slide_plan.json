@@ -1,0 +1,150 @@
+{
+  "presentation_goal": "向同学和老师系统介绍现代国防的内涵、特征、力量构成与时代意义，激发当代青年的国防意识与责任担当。",
+  "audience": "高校同学与授课教师，具备基础常识但需要结构化、有视觉冲击力的国防主题汇报。",
+  "theme_style": "暗底极光科技唯美风：深空蓝底色 #0B132B，极光青 #4CC9F0 与柔紫 #7209B7 渐变高光，浅银白 #F1FAEE 文字，玻璃拟态卡片，流光线条，现代高级感。",
+  "visual_system": {
+    "background_strategy": "全部页面统一深空蓝 #0B132B 底色，叠加低透明度极光蓝紫渐变光斑和点阵网格作为氛围层；封面与致谢页用更强的对角极光流光。",
+    "motif": "玻璃拟态圆角卡片（半透明白底+细微边框+柔阴影）+ 极光青/柔紫渐变强调色 + 编号节点，每页复用。",
+    "color_roles": {
+      "primary": "深空蓝 rgba(11,19,43,1) 承担 60-70% 底色权重",
+      "secondary": "极光青 rgba(76,201,240,1) 与柔紫 rgba(114,9,183,1) 用于渐变高光、卡片边框、图标与强调数字",
+      "accent": "浅银白 rgba(241,250,238,1) 用于正文文字，保证可读性"
+    },
+    "cover_content_relationship": "封面用对角极光流光大图+玻璃卡片大标题，内容页沿用同一深空蓝底色与极光渐变，保持统一。",
+    "closing_relationship": "致谢页镜像封面：弥散蓝紫光斑渐变+居中大字，首尾呼应。"
+  },
+  "typography_constraints": {
+    "title_max_lines": 2,
+    "body_max_lines_per_box": 3,
+    "footer_max_lines": 1,
+    "long_text_handling": "要点拆分为多张玻璃卡片，每页文字精简为关键词，演讲稿放备注栏。"
+  },
+  "verification_plan": {
+    "check_background_consistency": true,
+    "check_text_fit": true,
+    "check_visual_focus": true,
+    "check_asset_rendering": true
+  },
+  "slides": [
+    {
+      "page": 1,
+      "title": "现代国防",
+      "key_message": "国家安全是民族复兴的根基，现代国防是捍卫和平的钢铁长城。",
+      "layout_type": "title-cover",
+      "visual_focus": "对角极光蓝紫流光背景图 + 居中玻璃卡片大标题",
+      "asset_need": {
+        "asset_type": "infographic",
+        "purpose": "作为封面主视觉，营造暗底极光科技唯美氛围",
+        "suggested_query": "abstract blue purple aurora light dark tech background",
+        "fallback_if_missing": "用线性渐变背景+弥散光斑形状模拟极光氛围"
+      },
+      "text_density": "low",
+      "speaker_intent": "用震撼视觉开场，定调现代国防的科技感与庄重感。"
+    },
+    {
+      "page": 2,
+      "title": "目录",
+      "key_message": "从内涵到特征、从力量到责任，四个维度读懂现代国防。",
+      "layout_type": "two-column",
+      "visual_focus": "左侧巨型半透明编号 01-04，右侧四个章节标题卡片",
+      "asset_need": {
+        "asset_type": "none",
+        "purpose": "目录页以版式和编号为主视觉，无需外部素材",
+        "suggested_query": "",
+        "fallback_if_missing": "用巨型半透明数字与玻璃卡片构成目录"
+      },
+      "text_density": "low",
+      "speaker_intent": "展示汇报结构，让听众建立全局预期。"
+    },
+    {
+      "page": 3,
+      "title": "什么是现代国防",
+      "key_message": "现代国防是国家为防备和抵抗侵略、制止武装颠覆、保卫国家主权统一领土完整和安全所进行的军事及与军事有关的活动。",
+      "layout_type": "two-column",
+      "visual_focus": "左：核心定义玻璃卡片；右：内涵四要素（主权、领土、安全、发展）图标卡",
+      "asset_need": {
+        "asset_type": "icon",
+        "purpose": "用四个图标具象化国防内涵四要素",
+        "suggested_query": "shield globe flag satellite icons",
+        "fallback_if_missing": "用 IconPark 图标作为视觉锚点"
+      },
+      "text_density": "medium",
+      "speaker_intent": "给出权威定义并拆解内涵，建立认知基础。"
+    },
+    {
+      "page": 4,
+      "title": "现代国防的四大特征",
+      "key_message": "现代国防已从单一军事对抗走向综合国力、科技主导、全域多维的体系较量。",
+      "layout_type": "process-flow",
+      "visual_focus": "四个横向排列的特征节点，用流光线条串联",
+      "asset_need": {
+        "asset_type": "icon",
+        "purpose": "每个特征配一个图标增强识别度",
+        "suggested_query": "tech network shield brain icons",
+        "fallback_if_missing": "用 IconPark 图标+编号节点"
+      },
+      "text_density": "medium",
+      "speaker_intent": "用流程/节点结构呈现四大特征，清晰易记。"
+    },
+    {
+      "page": 5,
+      "title": "国防力量构成",
+      "key_message": "现代国防力量由陆、海、空、火箭、战略支援五大军种构成，全域慑战。",
+      "layout_type": "architecture-diagram",
+      "visual_focus": "中央盾牌核心向外辐射五大军种分支的架构图",
+      "asset_need": {
+        "asset_type": "architecture_diagram",
+        "purpose": "直观展示五大军种与国防核心的关系",
+        "suggested_query": "military branches architecture diagram",
+        "fallback_if_missing": "用中央节点+五条辐射线+五个分支卡片绘制架构图"
+      },
+      "text_density": "medium",
+      "speaker_intent": "用架构图让军种构成一目了然。"
+    },
+    {
+      "page": 6,
+      "title": "科技赋能现代国防",
+      "key_message": "人工智能、无人系统、太空与网络力量正在重塑战争形态，科技是核心战斗力。",
+      "layout_type": "image-left-text-right",
+      "visual_focus": "左：暗调科技光影图；右：四个科技领域玻璃卡片",
+      "asset_need": {
+        "asset_type": "infographic",
+        "purpose": "暗调科技光影图作为左侧主视觉",
+        "suggested_query": "dark tech particle artificial intelligence military",
+        "fallback_if_missing": "用渐变+粒子形状模拟科技氛围"
+      },
+      "text_density": "medium",
+      "speaker_intent": "结合视觉展示科技如何赋能国防现代化。"
+    },
+    {
+      "page": 7,
+      "title": "国防的意义与青年责任",
+      "key_message": "国无防不立，民无防不安；青年是国防建设的生力军与接班人。",
+      "layout_type": "comparison",
+      "visual_focus": "左右对比：国防的意义（左）vs 青年的责任（右）",
+      "asset_need": {
+        "asset_type": "icon",
+        "purpose": "左右两栏各配图标强化对比",
+        "suggested_query": "shield heart hands book icons",
+        "fallback_if_missing": "用 IconPark 图标+两栏玻璃卡片"
+      },
+      "text_density": "medium",
+      "speaker_intent": "升华主题，将国防意义落到青年责任上。"
+    },
+    {
+      "page": 8,
+      "title": "感谢聆听",
+      "key_message": "居安思危，强军有我。",
+      "layout_type": "conclusion",
+      "visual_focus": "居中大字+弥散蓝紫光斑渐变背景",
+      "asset_need": {
+        "asset_type": "infographic",
+        "purpose": "营造唯美收尾氛围",
+        "suggested_query": "abstract blue purple aurora light particle",
+        "fallback_if_missing": "用径向渐变+弥散光斑模拟极光粒子氛围"
+      },
+      "text_density": "low",
+      "speaker_intent": "唯美收尾，留下余韵。"
+    }
+  ]
+}

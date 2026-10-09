@@ -1,0 +1,38 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+  <style>
+    <fill>
+      <fillColor color="linear-gradient(135deg,rgba(11,19,43,1) 0%,rgba(11,19,43,0.85) 100%)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="@./closing-bg.jpg" topLeftX="0" topLeftY="0" width="960" height="540"/>
+    <shape type="rect" topLeftX="0" topLeftY="0" width="960" height="540">
+      <fill>
+        <fillColor color="linear-gradient(135deg,rgba(11,19,43,0.5) 0%,rgba(11,19,43,0.3) 100%)"/>
+      </fill>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="170" width="640" height="120">
+      <content textType="title" fontSize="72" bold="true" color="rgba(241,250,238,1)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p><span color="rgba(76,201,240,1)">感</span><span color="rgba(241,250,238,1)">谢</span><span color="rgba(168,85,247,1)">聆</span><span color="rgba(241,250,238,1)">听</span></p>
+      </content>
+    </shape>
+    <line startX="380" startY="310" endX="580" endY="310">
+      <border color="rgba(76,201,240,0.6)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="160" topLeftY="330" width="640" height="60">
+      <content textType="body" fontSize="20" color="rgba(241,250,238,0.85)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>居安思危 · 强军有我</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="160" topLeftY="430" width="640" height="30">
+      <content textType="caption" fontSize="13" color="rgba(241,250,238,0.5)" textAlign="center" wrap="true" autoFit="normal-auto-fit">
+        <p>现代国防主题汇报 · 敬请批评指正</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>结束：感谢大家的聆听。居安思危，强军有我。希望我们都能为国防建设贡献自己的力量。</p>
+    </content>
+  </note>
+</slide>
