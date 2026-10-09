@@ -1,0 +1,15 @@
+{
+  "name": "neon-hollow",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "俯视角双摇杆硬核射击 · 波次生存肉鸽 · 单机优先 / 预留联机",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "sim-test": "node tools/simtest.mjs",
+    "net-test": "node tools/netsimtest.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}

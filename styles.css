@@ -1,0 +1,84 @@
+/* 全屏游戏壳层。
+   移动端浏览器最麻烦的三件事在这里一次性解决：
+     1. 页面滚动/橡皮筋回弹  → overscroll-behavior + position:fixed
+     2. 双击缩放 / 长按选择  → touch-action:none + user-select:none
+     3. 刘海与底部横条遮挡  → viewport-fit=cover + safe-area-inset
+   注意：游戏内的 HUD 全部画在 canvas 上，这里只负责"画布占满屏幕"。 */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: #07080e;
+  overflow: hidden;
+}
+
+body {
+  position: fixed;
+  inset: 0;
+  touch-action: none;
+  overscroll-behavior: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  font-family: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+#game {
+  display: block;
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+  outline: none;
+}
+
+/* 竖屏提示：只在竖屏出现，几秒后自动淡出，并且不吃触摸事件 */
+#rotate {
+  display: none;
+  position: fixed;
+  left: 50%;
+  top: calc(env(safe-area-inset-top, 0px) + 10px);
+  transform: translateX(-50%);
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: rgba(12, 20, 32, 0.82);
+  border: 1px solid rgba(124, 246, 216, 0.35);
+  color: rgba(223, 243, 255, 0.92);
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  animation: fadeAway 7s ease-in forwards;
+  animation-delay: 1.2s;
+}
+
+@media (orientation: portrait) {
+  #rotate {
+    display: block;
+  }
+}
+
+@keyframes fadeAway {
+  0%,
+  72% {
+    opacity: 0.95;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+noscript {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: #dff3ff;
+}
